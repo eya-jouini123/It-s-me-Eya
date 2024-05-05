@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eya jouini</h1>
 <h3 align="center">A passionate Full stack developer</h3>
+<img src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif" alt="eya" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eya-jouini123" alt="eya-jouini123" /></a> </p>
 
